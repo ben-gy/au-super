@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-07-14T12:25:49.458Z",
+  "asAt": "30 June 2025",
+  "testYear": 2025,
+  "source": {
+    "cppp": "APRA MySuper Comprehensive Product Performance Package",
+    "cpppUrl": "https://www.apra.gov.au/mysuper-product-performance",
+    "testUrl": "https://www.apra.gov.au/2025-annual-superannuation-performance-test-mysuper-products"
+  },
+  "productCount": 52,
+  "trusteeCount": 37,
+  "totalAssets": 1206928909000,
+  "totalAccounts": 16378700,
+  "passCount": 50,
+  "passStarCount": 2,
+  "failCount": 0,
+  "lifecycleCount": 24,
+  "medians": {
+    "nir10": 0.0762,
+    "nir5": 0.0887,
+    "fee50k": 0.0081,
+    "growth": 0.79,
+    "margin": 0.002395
+  }
+}
